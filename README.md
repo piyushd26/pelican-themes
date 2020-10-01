@@ -1,4 +1,4 @@
-_This project is live at pelicanthemes.com but is essentially unmaintained.  I'm happy to provide commit access to anyone who'd like to continue running it._
+This project is live at pelicanthemes.com but is essentially unmaintained.  I'm happy to provide commit access to anyone who'd like to continue running it.This Project is Amazing.
 
 # About
 A web page that shows screenshots of Pelican themes.  The screenshots are sourced from <https://github.com/getpelican/pelican-themes> via the Github api.
